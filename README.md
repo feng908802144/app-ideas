@@ -1,4 +1,4 @@
-## :ledger: App Ideas Collection
+## :ledger: App Ideas Collection  该收集了各类应用的想法，并按照易学程度把应用进行划分。你可以通过这个项目提高编程技术、学习新技术
 
 ![App Ideas Image](./app-ideas.png)
 
